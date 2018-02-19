@@ -6,7 +6,7 @@ date = "2018-02-18"
 title = "Walmart Trip Type Classification"
 
 # Project summary to display on homepage.
-summary = "Improve Walmart’s segmentation process by classifying the customer trip types based on the product purchased in that visit"
+summary = "Improve Walmart\’s segmentation process by classifying the customer trip types based on the product purchased in that visit"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "walmart.png"
