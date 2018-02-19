@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
-[Params] 
+[params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "default"
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Monish Chandrashekar"
-  role = "Software Engineer(Data)"
+  role = "Data Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -163,29 +163,29 @@ defaultContentLanguageInSubdir = false
   #   The language can be edited below.
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
- # publication_types = [
-   # 'Uncategorized',  # 0
-  #  'Conference paper',  # 1
-  #  'Journal article',  # 2
-  #  'Manuscript',  # 3
-  #  'Report',  # 4
-  #  'Book',  # 5
-  #  'Book section'  # 6
-  #]
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference paper',  # 1
+    'Journal article',  # 2
+    'Manuscript',  # 3
+    'Report',  # 4
+    'Book',  # 5
+    'Book section'  # 6
+  ]
 
   # Configuration of talk pages.
-  [Params.talks]
+  [params.talks]
     # Show talk time?
     time = true
 
   # Configuration of publication pages.
-  #[Params.publications]
+  [params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    #date_format = "January, 2006"
+    date_format = "January, 2006"
 
   # Configuration of project pages.
-  [Params.projects]
+  [params.projects]
     # List publications and talks related to the project?
     list_children = true
 
@@ -214,22 +214,22 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[Params.social]]
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:test@example.org"
 
-  [[Params.social]]
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/GeorgeCushen"
 
-  [[Params.social]]
+  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  [[Params.social]]
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/gcushen"
@@ -239,7 +239,7 @@ defaultContentLanguageInSubdir = false
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-[Params.menus]
+[params.menus]
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
