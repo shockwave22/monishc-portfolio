@@ -6,7 +6,7 @@ date = "2018-02-18"
 title = "TimeSeriesAnalysis - USPresidentialElections2016"
 
 # Project summary to display on homepage.
-summary = "Time series analysis of the trend and candidate\'s likelihood of winning the 2016 US election."
+summary = "Time series analysis of the trend and candidate&#39;s likelihood of winning the 2016 US election."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "election.png"
@@ -28,4 +28,3 @@ caption = "My caption :smile:"
 
 +++
 
-Time series analysis of the trend and likelihood of winning the 2016 election

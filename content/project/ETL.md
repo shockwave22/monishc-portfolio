@@ -27,5 +27,3 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
-
-The main objective of this project is to develop a flexible data mart that integrates sales data from the three divisions of the product company (TPC-W, TPC-E and PEC). 
