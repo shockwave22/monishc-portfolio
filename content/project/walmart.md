@@ -1,11 +1,1 @@
-+++
-title = "Publications"
-date = "2017-01-01T00:00:00Z"
-math = false
-highlight = false
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "walmart.png"
-caption = ""
-+++
+external_link = "https://github.com/shockwave22/Walmart-Trip-Type-Classification"
