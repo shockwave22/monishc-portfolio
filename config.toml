@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
-[params]
+[Params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "default"
@@ -174,18 +174,18 @@ defaultContentLanguageInSubdir = false
   #]
 
   # Configuration of talk pages.
-  [params.talks]
+  [Params.talks]
     # Show talk time?
     time = true
 
   # Configuration of publication pages.
-  #[params.publications]
+  #[Params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     #date_format = "January, 2006"
 
   # Configuration of project pages.
-  [params.projects]
+  [Params.projects]
     # List publications and talks related to the project?
     list_children = true
 
@@ -214,22 +214,22 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
+  [[Params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:test@example.org"
 
-  [[params.social]]
+  [[Params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/GeorgeCushen"
 
-  [[params.social]]
+  [[Params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  [[params.social]]
+  [[Params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/gcushen"
@@ -239,7 +239,7 @@ defaultContentLanguageInSubdir = false
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-[params.menus]
+[Params.menus]
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
