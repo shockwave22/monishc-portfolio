@@ -17,9 +17,9 @@ weight = 30
 
 *Data Engineer - Care Innovations(Louisville, KY) May 2017 - Present*
 
--  Development of automated ETL processes to handle task order generation and monthly invoice for every patient from SFTP files. Implemented web services REST and HTTP calls to get/post data using C#, SSIS, SSRS, SQL (Microsoft Stack).
--  Exploratory data analysis, data cleaning, Querying using complex SQL queries of insurance claims data (ICD Diagnosis codes, Procedure codes) of 300 million records.
-- Worked on a Proof of Concept to fetch structured and unstructed data about patients, transactions, logs, support data using Sqoop, Flume into HDFS and query using Hive.
+-  Development of automated ETL processes to handle task order generation and monthly invoice for every patient from SFTP using C#, SSIS, SSRS, SQL.
+-  Exploratory data analysis, data cleaning, complex SQL queries to analyze insurance claims data (ICD Diagnosis codes, Procedure codes) of 300 million records.
+- Worked on a Proof of Concept to fetch structured and unstructed patients data, transactions, logs, support data using Sqoop, Flume into HDFS and query using Hive.
 
 *Programmer Analyst intern - University of Rochester Medical Center - Summer 2016*
 
@@ -28,11 +28,12 @@ weight = 30
 
 *Programmer Analyst - Cognizant Technology Solutions(India) - Aug 2014 - Aug 2015*
 
--  WebMethods consultant for Akzo Nobel, Netherlands; Developed interfaces publish-subscribe model using Java and webMethods, for various file formats - XML, Flat file, EDIFACT, IDOC46, IDOC60. 
+-  WebMethods consultant for Akzo Nobel, Netherlands; Developed interfaces pub-sub model using Java and webMethods, for various file formats - XML, Flat file, EDIFACT, IDOC46, IDOC60. 
 -  Integrated data between Java system, SAP and SQL server. Regression testing in Jenkins.
 -  Developed advanced SQL queries and stored procedures for the ETL process.
 
 *Software Engineer - Larsen & Toubro Infotech(India) - Mar 2012 to Aug 2014*
+
 -  webMethods B2B Developer(Enterprise Data Integration). Developed Data integration, EAI and EDI solutions using webMethods middleware for client applications (Java and Oracle JDEdwards). -  Onsite coordinator in Lafarge, Malaysia for UAT, planning and managing of end to end test execution with the client.
  
 
