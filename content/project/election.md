@@ -3,7 +3,7 @@
 date = "2018-02-18"
 
 # Project title.
-title = "TimeSeriesAnalysis - USPresidentialElections2016"
+title = "Time Series Analysis - US Presidential Elections 2016"
 
 # Project summary to display on homepage.
 summary = "Time series analysis of the trend and candidate&#39;s likelihood of winning the 2016 US election."
