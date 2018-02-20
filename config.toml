@@ -225,7 +225,7 @@ defaultContentLanguageInSubdir = false
     link = "//twitter.com/monishchandra"
 
   [[params.social]]
-    icon = "LinkedIn"
+    icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/monishc/"
 
