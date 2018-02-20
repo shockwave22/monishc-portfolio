@@ -245,30 +245,32 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-  #name = "Experience"
- # url = "#experience"
- # weight = 2
+[[menu.main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 2
+  
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 3
+
+  [[menu.main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 5
+
+
 
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
 
 # Taxonomies.
 #[taxonomies]
