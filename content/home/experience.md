@@ -15,6 +15,12 @@ weight = 30
 
 +++
 
+*PwC - Experienced Associate - Healthcare and Data Science Solutions Mar 2018 - Present*
+
+-  Developed a claims quality analytics framework using Teradata, Tableau and Python. Developed a classification model to predict the likelihood that the internal audit team is going to identify faulty claims adjudication.
+-  Data model development using SAP HANA for agriculture contract management project to identify lag time anomalies, stock in transit and contract closure reconciliation.  
+-  Design and development of Appeals and Grievances monitoring dashboard for Medicaid and Medicare programs. Identify root cause of the A&G to help improve acknowledgement and resolution of the claims.
+
 *Data Engineer - Care Innovations(Louisville, KY) May 2017 - Present*
 
 -  Development of automated ETL processes to handle task order generation and monthly invoice for every patient from SFTP using C#, SSIS, SSRS, SQL.
